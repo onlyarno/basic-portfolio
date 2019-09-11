@@ -1,0 +1,40 @@
+body{
+  background-color:  plum;
+}
+
+header{background-color: #4aaaa5;
+      border-bottom: 9px grey; 
+      color:white;
+
+}
+
+.links{
+  float: right;
+  }
+
+  .menu{
+    float:  right;
+  }
+
+
+h2{float:  left;
+  color:  teal;
+}
+
+#image{
+  float: left;
+}
+
+.Content{
+  margin: auto;
+  width: 960px;
+  border-bottomp: 16px solid teal;
+  padding: 20px;
+  color:  grey;
+  background-color: rgb(247, 248, 247);
+  line-height:  20px;
+  float:  none;
+
+}
+
+/*i couldn't get the text to wrap around the image and i got the links to be horizontal once, but not again.*/
